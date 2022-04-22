@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nuraly
 - I'm a senior data scientist currently working @ Kaspi.kz
-- I sometimes write articles in Towards Data Science journal @ Medium.com
+- Sometimes I write articles in Towards Data Science journal @ Medium.com
 - Hopefully stuff I do here would be helpful for anyone
 
 - You can contact me @ https://www.linkedin.com/in/nurali-u
